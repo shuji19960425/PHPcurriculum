@@ -1,0 +1,14 @@
+body {
+    background-color: gray;
+    text-align: center;
+    color: white;
+}
+
+hr {
+    border-top: 3px solid;
+    margin: -25px 0px 50px 0px;
+}
+
+.top {
+    margin-top: 50px;
+}
