@@ -1,0 +1,41 @@
+body {
+    width: 1000px;
+}
+
+.head {
+    width: 1000px;
+    height: 120px;
+    display: flex;
+}
+
+img {
+    background-color: #add8e6;
+    height: 120px;
+    width: 200px;
+}
+
+.name {
+    background-color: #87ceeb;
+    height: 60px;
+    width: 800px;
+    text-align: right;
+    line-height: 60px;
+}
+
+.date {
+    background-color: #00ffff;
+    height: 60px;
+    width: 800px;
+    text-align: right;
+    line-height: 60px;
+}
+
+.table {
+    margin: -100px 0 20px 100px;
+}
+
+.footer {
+    height: 50px;
+    width: 1000px;
+    background-color: #00ced1;
+}
